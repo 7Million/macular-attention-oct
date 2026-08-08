@@ -5,9 +5,16 @@
 __pycache__/
 *.pyc
 
-# Ignore your actual dataset files (I don't want to push 6GB of OCT if training data to GitHub!)
+# Ignore raw data folders everywhere
 oct_data/
+*oct_data*
 *.zip
+*.tar.gz
 
 # Ignore local system files
 .DS_Store
+
+# Ignore heavy model weight checkpoints (Do not push weights to standard GitHub!)
+*.pth
+results/*.pth
+notebooks/results/*.pth
