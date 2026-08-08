@@ -1,0 +1,13 @@
+# Ignore Jupyter local auto-saves
+.ipynb_checkpoints/
+
+# Ignore Python runtime caches
+__pycache__/
+*.pyc
+
+# Ignore your actual dataset files (I don't want to push 6GB of OCT if training data to GitHub!)
+oct_data/
+*.zip
+
+# Ignore local system files
+.DS_Store
