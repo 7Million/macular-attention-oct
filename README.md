@@ -30,9 +30,15 @@ The goal of this research is to improve the accuracy and explainability of deep 
 
 This project uses the publicly available **Kermany 2018 OCT** [dataset](https://www.kaggle.com/datasets/paultimothymooney/kermany2018?select=OCT2017+).
 
-#### Author
+#### Let's connect
 
 Developed by Tadiwanashe Mataruse.
+
+🌐 [LinkedIn](https://www.linkedin.com/in/tadiwanashe-mataruse-73a3545b/) | 
+🤗 [Hugging Face](https://huggingface.co/jeepaz) | 
+🥞 [Stack Overflow](https://stackoverflow.com/users/2270348/tadiwanashe) | 
+📺 [YouTube](https://www.youtube.com/@HueyMataruse)
+
 
 #### License
 
